@@ -1,0 +1,11 @@
+BMFL GitHub Pages setup
+=======================
+
+1) Create a PUBLIC repository on GitHub.
+2) Upload all files/folders from this package (not the outer folder).
+3) Settings > Pages > Deploy from a branch > main / root > Save.
+4) Check the temporary github.io address.
+5) Do NOT change KAIST DNS until the temporary site looks correct.
+6) When ready, point jeon.kaist.ac.kr DNS to GitHub Pages as instructed by GitHub/KAIST admin.
+
+CNAME is already included: jeon.kaist.ac.kr
